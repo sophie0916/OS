@@ -1,6 +1,6 @@
 ## CSCI-UA 0202 Operating Systmes
 
-###Operating Systems Labs
+### Operating Systems Labs
 
 Lab1: Linker
 
