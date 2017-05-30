@@ -1,4 +1,4 @@
-## CSCI-UA 0202 Operating Systmes
+## CSCI-UA 0202 Operating Systems
 
 ### Operating Systems Labs
 
